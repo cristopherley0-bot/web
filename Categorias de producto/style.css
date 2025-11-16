@@ -1,0 +1,289 @@
+    *{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-color: #9596ba;
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Encabezado{
+    background-color: #bd7a11;
+    color: white;
+    text-align: center;
+    padding: 0%;
+}
+
+.inicio{    
+    margin: 15px;
+    padding: 8px;
+    border-radius: 15px;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.inicio a{
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Tema{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+.listaproducto{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Tarjeta{
+    background: #fff;
+    border-radius: 15px;
+    width: 260px;
+    padding: 15px 50px 15px 50px;
+    text-align: center;
+    margin: 25px;
+    transition: margin-top 0.3s ease-out;
+}
+
+.Tarjeta2{
+    background: #fff;
+    border-radius: 15px;
+    width: 260px;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    text-align: center;
+    margin: 25px;
+    transition: margin-top 0.3s ease-out;
+}
+
+.Tarjeta3{
+    background: #fff;
+    border-radius: 15px;
+    width: 260px;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    text-align: center;
+    margin: 25px;
+    transition: margin-top 0.3s ease-out;
+}
+
+.Tarjeta4{
+    background: #fff;
+    border-radius: 15px;
+    width: 260px;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    text-align: center;
+    margin: 25px;
+    transition: margin-top 0.3s ease-out;
+}
+
+.Tarjeta5{
+    background: #fff;
+    border-radius: 15px;
+    width: 260px;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    text-align: center;
+    margin: 25px;
+    transition: margin-top 0.3s ease-out;
+}
+
+.Tarjeta6{
+    background: #fff;
+    border-radius: 15px;
+    width: 260px;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    text-align: center;
+    margin: 25px;
+    transition: margin-top 0.3s ease-out;
+}
+
+.Tarjeta7{
+    background: #fff;
+    border-radius: 15px;
+    width: 260px;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    text-align: center;
+    margin: 25px;
+    transition: margin-top 0.3s ease-out;
+}
+
+.Tarjeta8{
+    background: #fff;
+    border-radius: 15px;
+    width: 260px;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    text-align: center;
+    margin: 25px;
+    transition: margin-top 0.3s ease-out;
+}
+
+.Tarjeta9{
+    background: #fff;
+    border-radius: 15px;
+    width: 260px;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    text-align: center;
+    margin: 25px;
+    transition: margin-top 0.3s ease-out;
+}
+
+.Tarjeta10{
+    background: #fff;
+    border-radius: 15px;
+    width: 260px;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    text-align: center;
+    margin: 25px;
+    transition: margin-top 0.3s ease-out;
+}
+
+.Tarjeta10 img{
+    display: flex;
+    justify-content: center;
+    padding: 85px 0px 25px 0px;
+}
+
+.Tarjeta11{
+    background: #fff;
+    border-radius: 15px;
+    width: 260px;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    text-align: center;
+    margin: 25px;
+    transition: margin-top 0.3s ease-out;
+}
+
+.Tarjeta12{
+    background: #fff;
+    border-radius: 15px;
+    width: 260px;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    text-align: center;
+    margin: 25px;
+    transition: margin-top 0.3s ease-out;
+}
+
+.Titulo{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    padding: auto;
+    margin: auto;
+}
+
+.Centro{
+    display: flex;
+    justify-content: center;
+    padding: 5px 0 15px 0;
+}
+
+.Descripcion{
+    font-size: 20px;
+    color: #111;
+    margin: 15px 0 15px;
+}
+
+.Det{
+    justify-content: center;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: #bd7a11;
+    list-style: none;
+}
+
+.Det a{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;    
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inicio:hover{
+    background-color: #9596ba;
+    transition: 0.5s;
+}
+
+.Tarjeta:hover{
+    margin-top: -5px;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.Tarjeta2:hover{
+    margin-top: -5px;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.Tarjeta3:hover{
+    margin-top: -5px;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.Tarjeta4:hover{
+    margin-top: -5px;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.Tarjeta5:hover{
+    margin-top: -5px;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.Tarjeta6:hover{
+    margin-top: -5px;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.Tarjeta7:hover{
+    margin-top: -5px;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.Tarjeta8:hover{
+    margin-top: -5px;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.Tarjeta9:hover{
+    margin-top: -5px;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.Tarjeta10:hover{
+    margin-top: -5px;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.Tarjeta11:hover{
+    margin-top: -5px;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.Tarjeta12:hover{
+    margin-top: -5px;
+    box-shadow: 0px 0px 10px 3px black;
+}
